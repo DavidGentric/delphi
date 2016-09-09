@@ -1,0 +1,13 @@
+inherited Form1_Moto360: TForm1_Moto360
+  ClientHeight = 218
+  ClientWidth = 240
+  DesignerMasterStyle = 0
+  inherited Layout1: TLayout
+    Size.Width = 240.000000000000000000
+    Size.Height = 218.000000000000000000
+    inherited Label1: TLabel
+      Size.Width = 240.000000000000000000
+      TextSettings.Font.StyleExt = {04070000000200000004000000}
+    end
+  end
+end
