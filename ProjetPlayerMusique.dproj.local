@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/09/09 01:50:54.086,=C:\Users\dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 02:15:03.600,C:\Users\dell\Documents\Embarcadero\Studio\Projets\XE7 PlayerMusic\PlayerMusique.dfm=C:\Users\dell\Documents\Embarcadero\Studio\Projets\Unit1.dfm</Transaction>
+    <Transaction>2016/09/09 02:15:03.600,C:\Users\dell\Documents\Embarcadero\Studio\Projets\XE7 PlayerMusic\PlayerMusique.pas=C:\Users\dell\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2016/09/09 02:15:47.230,C:\Users\dell\Documents\Embarcadero\Studio\Projets\XE7 PlayerMusic\ProjetPlayerMusique.dproj=C:\Users\dell\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
